@@ -1,4 +1,4 @@
 # repo
 This is my first Git repo
 <br>
-This is by Ganapati Naik
+This is by Ganapati Naik( Bhargav)
